@@ -5,6 +5,3 @@ __pycache__/
 # ambiente virtual
 venv/
 .env
-
-# VSCode (opcional mas bom)
-.vscode/
