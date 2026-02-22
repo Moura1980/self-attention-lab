@@ -3,7 +3,7 @@
 Implementação *from scratch* do mecanismo de Self-Attention.
 
 ```bash
-## ▶️ Como rodar
+▶️ Como rodar
 pip install numpy
 python test_attention.py
 
