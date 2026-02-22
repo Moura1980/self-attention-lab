@@ -1,0 +1,10 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# ambiente virtual
+venv/
+.env
+
+# VSCode (opcional mas bom)
+.vscode/
