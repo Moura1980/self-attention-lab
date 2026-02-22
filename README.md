@@ -2,7 +2,7 @@
 
 Implementação *from scratch* do mecanismo de Self-Attention.
 
-## ▶️ Como rodar
+▶️ Como rodar
 
 ```bash
 pip install numpy
