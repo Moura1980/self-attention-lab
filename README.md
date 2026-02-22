@@ -2,9 +2,8 @@
 
 Implementação *from scratch* do mecanismo de Self-Attention.
 
-## ▶️ Como rodar
-
 ```bash
+## ▶️ Como rodar
 pip install numpy
 python test_attention.py
 
